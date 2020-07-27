@@ -63,10 +63,10 @@ function game() {
         }
     }
     if (playerScore > computerScore){
-        console.log("Player wins! Player Score: " + playerScore + " Player Score :" + computerScore);
+        console.log("Player wins! Player Score: " + playerScore + " Computer Score: " + computerScore);
     } 
     else if (playerScore < computerScore) {
-        console.log("Computer wins! Computer Score: " + computerScore + " Player Score :" + playerScore);
+        console.log("Computer wins! Computer Score: " + computerScore + " Player Score: " + playerScore);
     } 
     else if (playerScore === computerScore) {
         console.log("You tied with the computer!");
