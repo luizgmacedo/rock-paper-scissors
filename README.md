@@ -4,4 +4,4 @@
 
 ## 🔨 Implementation for The Odin Project
 
-### 🎮 You can play it here: https://luizgmacedo.github.io/Rock-Paper-Scissors/
+### 🎮 You can play it here: https://luizgmacedo.github.io/rock-paper-scissors/
