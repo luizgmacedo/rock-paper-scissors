@@ -2,6 +2,4 @@
     ROCK PAPER SCISSORS
 </h1>
 
-## 🔨 Implementation for The Odin Project
-
-### 🎮 You can play it here: https://luizgmacedo.github.io/rock-paper-scissors/
+## 🔨 Implementation of the game Rock Paper Scissors for The Odin Project
